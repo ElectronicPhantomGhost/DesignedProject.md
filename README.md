@@ -31,6 +31,8 @@ This system will send/retrieve information to/from the backend server to carry o
 4.	A timeously refreshing system allows for correct communication with the backend server. (Performance)
 5.	The information must also be stored offline in case power cuts or communication interruptions. (Reliability)
 
+# Flow Chart for the system
+
 Figure 1: Flow chart for dispenser
 
 ![image](https://user-images.githubusercontent.com/117062128/199088183-9e20b350-fc9a-4e86-9c03-303bcb721491.png)
@@ -43,3 +45,10 @@ Figure 3: Flow chart for emergency system
 
 ![image](https://user-images.githubusercontent.com/117062128/199088314-f7dc5216-e699-4d4f-9d11-d6bfe52309da.png)
 
+# CAD Designs
+
+Figure 4: CAD Design
+
+![CAD design](https://user-images.githubusercontent.com/117062128/199088660-a374b7ec-be72-4ecb-a5f3-ac0971afb5b4.png)
+![CAD design 2](https://user-images.githubusercontent.com/117062128/199088665-bb0e59f4-ff47-44b4-b4e4-465be7f29c6f.png)
+![cad dispenser 0](https://user-images.githubusercontent.com/117062128/199088629-2cd693ec-874d-4028-a1f6-65c5be9da56e.png)
